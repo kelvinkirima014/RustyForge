@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+
+    "target": "es2016",                                  /* Set the JavaScript language version for emitted JavaScript and include compatible library declarations. */
+    "lib": ["es6"],                                    
+    "module": "commonjs",                                /* Specify what module code is generated. */
+    "rootDir": "src",               /* Conditions to set in addition to the resolver-specific defaults when resolving imports. */
+    "resolveJsonModule": true,                           
+    /* JavaScript Support */
+    "allowJs": true,                                    
+    "esModuleInterop": true,                             
+    // "preserveSymlinks": true,                         
+    "forceConsistentCasingInFileNames": true,            
+
+    /* Type Checking */
+    "strict": true,                                      
+    "noImplicitAny": true,                     
+    "skipLibCheck": true                                 
+  }
+}
