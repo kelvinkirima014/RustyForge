@@ -1,0 +1,5 @@
+{
+    "rust-analyzer.linkedProjects": [
+        "./forge-core/Cargo.toml"
+    ]
+}
